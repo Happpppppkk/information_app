@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Infant information App</title>
+</head>
+<body>
+    <h1>Welcome New Parents!</h1>
+    <p>This simple app provides some basic information for new parents struggle with daily task and issue with their newborn baby.
+        Hope this can help you and your partner go through the first year of your little one! :)
+    </p>
+    {{range .Content}}
+        <div>
+            <h2><a href="/content/{{urlquery .Title}}">{{.Title}}</a></h2>
+            <p></p>
+        </div>
+    {{end}}
+</body>
+</html>
