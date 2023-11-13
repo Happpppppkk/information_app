@@ -3,7 +3,7 @@ The project is to create a simple information application. It performs web crawl
 
 ## information application plan
 information to crawl
-selection tool that able to select following items
+selection tool that able to select following items:
 
 1. Infant milestone : https://www.webmd.com/parenting/baby/features/stages-of-development
     
