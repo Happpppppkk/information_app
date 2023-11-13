@@ -4,15 +4,16 @@ The project is to create a simple information application. It performs web crawl
 ## information application plan
 information to crawl
 selection tool that able to select following items
-    1. Infant milestone : https://www.webmd.com/parenting/baby/features/stages-of-development
+
+1. Infant milestone : https://www.webmd.com/parenting/baby/features/stages-of-development
     
-    2. Infant feeding based on age : https://www.parents.com/baby/feeding/baby-feeding-chart-how-much-and-when-to-feed-infants-the-first-year/ 
+2. Infant feeding based on age : https://www.parents.com/baby/feeding/baby-feeding-chart-how-much-and-when-to-feed-infants-the-first-year/ 
     
-    3. Infant sleep hour and schedule : https://www.whattoexpect.com/first-year/sleep/how-much-sleep-do-babies-need/
+3. Infant sleep hour and schedule : https://www.whattoexpect.com/first-year/sleep/how-much-sleep-do-babies-need/
     
-    4. Infant dressing code: https://www.healthychildren.org/English/ages-stages/baby/diapers-clothing/Pages/Dressing-Your-Newborn.aspx
+4. Infant dressing code: https://www.healthychildren.org/English/ages-stages/baby/diapers-clothing/Pages/Dressing-Your-Newborn.aspx
     
-    5. Crying baby? Click here : https://kidshealth.org/en/parents/babies-cry.html
+5. Crying baby? Click here : https://kidshealth.org/en/parents/babies-cry.html
 
 
 The main page display the five items/webpage that has been scraped on.
